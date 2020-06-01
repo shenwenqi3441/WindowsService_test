@@ -1,0 +1,10 @@
+﻿// MFCLibrary1.idl: MFCLibrary1.dll 的类型库源
+// 此文件将由 MIDL 编译器处理以产生
+// 类型库(MFCLibrary1.tlb)。
+
+[ uuid(de7b46fa-0728-4333-95b5-93791b08a9db), version(1.0) ]
+library MFCLibrary1
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+};
